@@ -1,6 +1,7 @@
-# 🚀 My Web Projects Portfolio
+# Roadmap Projects
+This repository contains multiple web projects following roadmap.sh [roadmap.sh](https://roadmap.sh/). These projects serves as practice and learning of becoming a Frontend Developer, projects will be added progressively as i learn.
 
-This repository contains multiple web projects I have developed. Starting with a **Basic CV** and a **Multi-page HTML Website**, more projects will be added progressively.
+Started  in 22/5/2025 During my Second Year in College
 
 ## 📁 Projects Included
 
@@ -10,9 +11,3 @@ This repository contains multiple web projects I have developed. Starting with a
 | `HTML Website`  | A multi-page site including `cv.html`, `projects.html`, `contact.html`, and `articles.html`. |
 __________________________________________________________________________________________________________________
 
-## ✅ Features
-
-- Clean, semantic HTML structure  
-- Responsive layout with CSS Grid and Flexbox  
-- Consistent styling and navigation across pages  
-- Ready for easy expansion with new projects and pages  
