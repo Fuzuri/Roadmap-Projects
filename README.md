@@ -4,10 +4,11 @@ This repository contains multiple web projects I have developed. Starting with a
 
 ## 📁 Projects Included
 
-| Project         | Description                                                                                   | Preview                                       |
-|-----------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------|
-| `cv.html`       | A simple single-page CV with semantic HTML and CSS showcasing work experience and education. | [![CV Preview](./cv-screenshot.png)](./cv.html)            |
-| `HTML Website`  | A multi-page site including `cv.html`, `projects.html`, `contact.html`, and `articles.html`. | [![HTML Website Preview](./html-website-screenshot.png)](./HTML-Website/) |
+| Project         | Description                                                                                  | 
+|-----------------|----------------------------------------------------------------------------------------------|
+| `cv.html`       | A simple single-page CV with semantic HTML and CSS showcasing work experience and education. |
+| `HTML Website`  | A multi-page site including `cv.html`, `projects.html`, `contact.html`, and `articles.html`. |
+__________________________________________________________________________________________________________________
 
 ## ✅ Features
 
