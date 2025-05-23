@@ -1,32 +1,25 @@
-# 🧾 Simple CV Website
+# 🚀 My Web Projects Portfolio
 
-A simple single-page HTML CV project based on the [roadmap.sh project idea](https://roadmap.sh/projects/single-page-cv).  
-It includes a basic CV layout in `cv.html` and a complete version with SEO and social sharing enhancements in `cv2.html`.
+This repository contains multiple web projects I have developed. Starting with a **Basic CV** and a **Multi-page HTML Website**, more projects will be added progressively.
 
-## 📁 Files
+## 📁 Projects Included
 
-| File        | Description                                                                 |
-|-------------|-----------------------------------------------------------------------------|
-| `cv.html`   | Basic CV with semantic HTML structure. No SEO meta tags or Open Graph tags. |
-| `cv2.html`  | Enhanced CV with SEO meta tags, Open Graph tags for social sharing, and a favicon. |
+| Project         | Description                                                                                   | Preview                                       |
+|-----------------|-----------------------------------------------------------------------------------------------|-----------------------------------------------|
+| `cv.html`       | A simple single-page CV with semantic HTML and CSS showcasing work experience and education. | [![CV Preview](./cv-screenshot.png)](./cv.html)            |
+| `HTML Website`  | A multi-page site including `cv.html`, `projects.html`, `contact.html`, and `articles.html`. | [![HTML Website Preview](./html-website-screenshot.png)](./HTML-Website/) |
 
 ## ✅ Features
 
-- Semantic and accessible HTML structure
-- Responsive design using basic CSS
-- SEO meta tags: `description`, `author`, `keywords`
-- Open Graph tags for better link sharing (title, description)
-- Favicon support
-- Links to social profiles
+- Clean, semantic HTML structure  
+- Responsive layout with CSS Grid and Flexbox  
+- Consistent styling and navigation across pages  
+- Ready for easy expansion with new projects and pages  
 
 ## 🚀 Getting Started
 
-To view the CV locally:
+To view any project locally:
 
-1. Clone the repository:
+1. Clone the repository:  
    ```bash
-<<<<<<< HEAD
-   git clone https://github.com/Fuzuri/CV-website.git
-=======
-   git clone https://github.com/Fuzuri/CV-website.git
->>>>>>> 82f5ce78abf4d93e7eec5d459ffc8e4e305425e0
+   git clone https://github.com/your-username/your-repo-name.git
