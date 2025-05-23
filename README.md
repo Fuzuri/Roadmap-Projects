@@ -25,4 +25,8 @@ To view the CV locally:
 
 1. Clone the repository:
    ```bash
+<<<<<<< HEAD
    git clone https://github.com/Fuzuri/CV-website.git
+=======
+   git clone https://github.com/Fuzuri/CV-website.git
+>>>>>>> 82f5ce78abf4d93e7eec5d459ffc8e4e305425e0
