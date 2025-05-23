@@ -1,5 +1,5 @@
 # Roadmap Projects
-This repository contains multiple web projects following roadmap.sh [roadmap.sh](https://roadmap.sh/). These projects serves as practice and learning of becoming a Frontend Developer, projects will be added progressively as i learn.
+This repository contains multiple web projects following [roadmap.sh](https://roadmap.sh/). These projects serves as practice and learning of becoming a Frontend Developer, projects will be added progressively as i learn.
 
 Started  in 22/5/2025 During my Second Year in College
 
