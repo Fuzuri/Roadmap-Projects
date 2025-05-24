@@ -1,0 +1,27 @@
+h2{
+    font-size: 18px;
+    font-weight: bold;
+}
+
+
+.education-section {
+  margin-bottom: 20px; /* space between sections */
+}
+
+.school{
+    margin: 0;
+    padding: 0;
+}
+
+.education-date, .education-description {
+    margin: 0;
+    line-height: 1.6;
+    padding: 0;
+
+}
+
+.experience-date, .job-title{
+    margin: 0;
+    line-height: 1.6;
+    padding: 0;
+}
