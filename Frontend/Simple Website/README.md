@@ -2,6 +2,8 @@
 
 A simple, clean multi-page CV website built with semantic HTML and CSS. This project includes a main CV page along with separate pages for projects, contact, and articles.
 
+https://roadmap.sh/projects/basic-html-website
+
 ## 📁 Files
 
 | File            | Description                                                  |
